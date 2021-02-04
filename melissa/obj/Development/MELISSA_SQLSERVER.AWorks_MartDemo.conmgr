@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MELISSA_SQLSERVER.AWorks_MartDemo"
+  DTS:DTSID="{D7EAB6E6-F64A-40AC-BB54-968C799B3684}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=MELISSA\SQLSERVER;Initial Catalog=AWorks_MartDemo;Integrated Security=True;Application Name=SSIS-melissa-{D7EAB6E6-F64A-40AC-BB54-968C799B3684}MELISSA\SQLSERVER.AWorks_MartDemo;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
